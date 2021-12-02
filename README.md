@@ -1,3 +1,3 @@
-# AOC22
+# AOC21
 
-> Advent of Code 2022
+> Advent of Code 2021
